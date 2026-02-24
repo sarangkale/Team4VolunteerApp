@@ -1,4 +1,5 @@
 # Team4VolunteerApp
+Luke is modifying the README
 Amherst Volunteer Hub is a centralized web platform connecting students with local nonprofits and organizations seeking volunteers.
 The platform allows organizations to post volunteer opportunities with details such as location, required skills, and time commitment.
 Students can browse and filter opportunities through a powerful search page tailored to their availability and interests.
