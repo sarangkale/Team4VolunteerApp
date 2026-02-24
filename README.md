@@ -9,3 +9,18 @@ Organizations gain access to a calendar view showing which students are signed u
 This improves coordination, reduces scheduling conflicts, and ensures adequate volunteer coverage.
 The system streamlines communication between students and organizations in one accessible location.
 Amherst Volunteer Hub simplifies community engagement and makes volunteering more organized, transparent, and impactful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adding a singular line of text. -Michael K
